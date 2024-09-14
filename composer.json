@@ -1,0 +1,19 @@
+{
+    "name": "adaiasmagdiel/cururu",
+    "description": "A lightweight PHP library that simplifies making HTTP requests with cURL, offering a minimalistic approach for handling web APIs with an easy-to-use interface and essential features, ideal for smaller projects.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AdaiasMagdiel\\Cururu\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adaías Magdiel",
+            "email": "adaiasmagdiell@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
